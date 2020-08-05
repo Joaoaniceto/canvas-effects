@@ -1,0 +1,14 @@
+canvas{
+    position: absolute;
+}
+*{
+    padding:0px;
+    margin:0px;
+    overflow: hidden;
+}
+h1{
+    position: absolute;
+    top:20%;
+    left: 20%;
+    font-size: 30px;
+}

@@ -1,0 +1,14 @@
+canvas{
+    background-color: black;
+}
+*{
+    padding:0px;
+    margin:0px;
+    color:black;
+}
+h1{
+    color:black;
+    position: absolute;
+    top:47.6%;
+    left:47.3%;
+}
